@@ -8,7 +8,7 @@
     "license": "MIT",
     "scripts": {
         "start": "sanity start",
-        "build": "sanity build -y public",
+        "build": "sanity build public -y",
         "test": "sanity check"
     },
     "keywords": [
