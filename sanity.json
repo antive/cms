@@ -1,7 +1,7 @@
 {
     "root": true,
     "project": {
-        "name": "bachelor-blog"
+        "name": "antive-blog"
     },
     "api": {
         "projectId": "4i02tf2x",
